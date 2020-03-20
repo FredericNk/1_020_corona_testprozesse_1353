@@ -1,0 +1,28 @@
+Wie alt sind Sie?	40-50
+Wie ist Ihre aktuelle Wohnsituation?	Zusammen mit Familie, in einer Wohngemeinschaft oder betreuten Gemeinschaftseinrichtung
+Sind Sie in einem der folgenden Bereiche tätig?	Im medizinischen Bereich
+Rauchen Sie?	Nein
+Sind Sie in den letzten 4 Wochen verreist? (innerhalb Deutschlands oder ins Ausland)	Nein
+Hatten Sie engen Kontakt zu einem bestätigtem Fall?	Ja
+An welchem Tag war der letzte Kontakt?	19.03.2020
+Hatten Sie Fieber (über 38 °C) in den letzten 24 Stunden?	Nein
+Hatten Sie Fieber (über 38 °C) in den letzten 4 Tagen?	Ja
+Wie hoch war die höchste Temperatur ca.?	41 °C
+Haben Sie Schüttelfrost?	Ja
+Fühlen Sie sich schlapp oder abgeschlagen?	Ja
+Haben Sie Gliederschmerzen?	Ja
+Haben Sie anhaltenden Husten?	Ja
+Haben Sie Schnupfen?	Ja
+Haben Sie Durchfall?	Ja
+Haben Sie Halsschmerzen?	Ja
+Haben Sie Kopfschmerzen?	Nein
+Sind Sie schneller außer Atem als sonst?	Nein
+Seit wann haben Sie die Symptome?	18.03.2020
+Wurde bei Ihnen eine chronische Lungenerkrankung diagnostiziert?	Nein
+Haben Sie Diabetes?	Nein
+Wurde bei Ihnen eine Herzerkrankung diagnostiziert?	Nein
+Wurde bei Ihnen Adipositas (Fettsucht) diagnostiziert?	Nein
+Sind Sie schwanger?	Nein
+Nehmen Sie aktuell Cortison ein (in Tablettenform)?	Nein
+Nehmen Sie aktuell Immunsuppressiva?	Nein
+Haben Sie sich im Zeitraum von Oktober 2019 bis heute gegen Grippe impfen lassen?	Ja

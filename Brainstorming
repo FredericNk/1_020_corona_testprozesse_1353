@@ -10,9 +10,3 @@ Mögliche Bottlenecks?
 Bottleneck Mitarbeiter möglicherweise am flexiblesten
 
 
-Priotisierung von Proben:
-  Risikogruppen
-  
-  
-App von der Charite --> Abfrage Symptome, Risikogruppe, Kontaktanamnese --> Output: QR Code
-Namen + Geburtsdatum --> Hashen --> Daten mit Testergebnis
