@@ -1,0 +1,18 @@
+Brainstorming:
+
+Mögliche Bottlenecks?
+1. Abstriche anfertigen
+2. Abstriche verarbeiten - Hardware
+3. Abstriche verarbeiten - Mitarbeiter
+4. Abstriche verarbeiten - Reagenzien
+5. Verteilung der Abstriche
+
+Bottleneck Mitarbeiter möglicherweise am flexiblesten
+
+
+Priotisierung von Proben:
+  Risikogruppen
+  
+  
+App von der Charite --> Abfrage Symptome, Risikogruppe, Kontaktanamnese --> Output: QR Code
+Namen + Geburtsdatum --> Hashen --> Daten mit Testergebnis
